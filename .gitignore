@@ -1,0 +1,15 @@
+.DS_Store
+.idea
+/build/
+/classes/
+/src/main/resources/public/
+/out/
+.envrc
+*.war
+src/main/resources/keystore.jks
+
+######
+### GRADLE IGNORE
+######
+.gradle
+/build/
